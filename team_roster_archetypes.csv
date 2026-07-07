@@ -1,0 +1,451 @@
+Team,Player,Primary_Archetype,Secondary_Archetype
+Atlanta Hawks,Bogdan Bogdanovic,Scorer,Ball_Handler
+Atlanta Hawks,Bruno Fernando,Scorer,Ball_Handler
+Atlanta Hawks,Clint Capela,Versatile_Forward,Defensive_Anchor
+Atlanta Hawks,Dejounte Murray,Versatile_Forward,Scorer
+Atlanta Hawks,Dyson Daniels,Versatile_Forward,Slasher
+Atlanta Hawks,E.J. Liddell,Scorer,Versatile_Forward
+Atlanta Hawks,Jalen Johnson,Versatile_Forward,Scorer
+Atlanta Hawks,Keaton Wallace,Versatile_Forward,Ball_Handler
+Atlanta Hawks,Larry Nance Jr.,Versatile_Forward,Slasher
+Atlanta Hawks,Mouhamadou Gueye,Scorer,Playmaker
+Atlanta Hawks,Nickeil Alexander-Walker,Scorer,Versatile_Forward
+Atlanta Hawks,Onyeka Okongwu,Versatile_Forward,Slasher
+Atlanta Hawks,Trae Young,Ball_Handler,Scorer
+Atlanta Hawks,Vit Krejci,Scorer,Ball_Handler
+Atlanta Hawks,Zaccharie Risacher,Versatile_Forward,Scorer
+Boston Celtics,Al Horford,Versatile_Forward,Slasher
+Boston Celtics,Baylor Scheierman,Versatile_Forward,Slasher
+Boston Celtics,Brandin Podziemski,Versatile_Forward,Scorer
+Boston Celtics,Derrick White,Versatile_Forward,Scorer
+Boston Celtics,Drew Peterson,Scorer,Playmaker
+Boston Celtics,Jaylen Brown,Scorer,Versatile_Forward
+Boston Celtics,Jayson Tatum,Versatile_Forward,Scorer
+Boston Celtics,Jordan Hawkins,Scorer,Versatile_Forward
+Boston Celtics,Jrue Holiday,Versatile_Forward,Scorer
+Boston Celtics,Kristaps Porzingis,Scorer,Ball_Handler
+Boston Celtics,Luke Kornet,Versatile_Forward,Slasher
+Boston Celtics,Neemias Queta,Versatile_Forward,Slasher
+Boston Celtics,Payton Pritchard,Scorer,Versatile_Forward
+Boston Celtics,Sam Hauser,Versatile_Forward,Scorer
+Boston Celtics,Torrey Craig,Scorer,Ball_Handler
+Brooklyn Nets,Ben Simmons,Versatile_Forward,Slasher
+Brooklyn Nets,Bojan Bogdanovic,Scorer,Ball_Handler
+Brooklyn Nets,Cam Thomas,Scorer,Ball_Handler
+Brooklyn Nets,Cameron Johnson,Scorer,Versatile_Forward
+Brooklyn Nets,Cason Wallace,Versatile_Forward,Slasher
+Brooklyn Nets,Dariq Whitehead,Scorer,Versatile_Forward
+Brooklyn Nets,Day'Ron Sharpe,Versatile_Forward,Slasher
+Brooklyn Nets,Dennis Schroder,Playmaker,Facilitator
+Brooklyn Nets,Dorian Finney-Smith,Versatile_Forward,Slasher
+Brooklyn Nets,Lonnie Walker IV,Scorer,Ball_Handler
+Brooklyn Nets,Mikal Bridges,Scorer,Versatile_Forward
+Brooklyn Nets,Nic Claxton,Versatile_Forward,Slasher
+Brooklyn Nets,Trendon Watford,Versatile_Forward,Scorer
+Brooklyn Nets,Tyrese Martin,Versatile_Forward,Scorer
+Brooklyn Nets,Ziaire Williams,Scorer,Slasher
+Charlotte Hornets,Brandon Miller,Scorer,Versatile_Forward
+Charlotte Hornets,Brandon Podziemski,Scorer,Ball_Handler
+Charlotte Hornets,Cody Martin,Defensive_Anchor,Versatile_Forward
+Charlotte Hornets,DaQuan Jeffries,Scorer,Ball_Handler
+Charlotte Hornets,Grant Williams,Versatile_Forward,Scorer
+Charlotte Hornets,Josh Green,Versatile_Forward,Scorer
+Charlotte Hornets,Kelly Oubre Jr.,Scorer,Versatile_Forward
+Charlotte Hornets,LaMelo Ball,Scorer,Versatile_Forward
+Charlotte Hornets,Mark Williams,Versatile_Forward,Slasher
+Charlotte Hornets,Mason Plumlee,Versatile_Forward,Slasher
+Charlotte Hornets,Miles Bridges,Scorer,Versatile_Forward
+Charlotte Hornets,Nickeil Alexander-Walker,Scorer,Versatile_Forward
+Charlotte Hornets,Terry Rozier,Scorer,Ball_Handler
+Charlotte Hornets,Tre Mann,Versatile_Forward,Scorer
+Charlotte Hornets,Vasilije Micic,Scorer,Ball_Handler
+Chicago Bulls,Alex Caruso,Versatile_Forward,Slasher
+Chicago Bulls,Ayo Dosunmu,Scorer,Versatile_Forward
+Chicago Bulls,Billy Donovan,Scorer,Ball_Handler
+Chicago Bulls,Brandon Miller,Scorer,Versatile_Forward
+Chicago Bulls,Coby White,Scorer,Versatile_Forward
+Chicago Bulls,Coby White,Scorer,Versatile_Forward
+Chicago Bulls,Dalen Terry,Versatile_Forward,Slasher
+Chicago Bulls,DeMar DeRozan,Scorer,Versatile_Forward
+Chicago Bulls,Jevon Carter,Scorer,Versatile_Forward
+Chicago Bulls,Lenin Ortiz,Scorer,Ball_Handler
+Chicago Bulls,Nikola Vucevic,Scorer,Ball_Handler
+Chicago Bulls,Patrick Williams,Versatile_Forward,Scorer
+Chicago Bulls,Talen Horton-Tucker,Scorer,Ball_Handler
+Chicago Bulls,Torrey Craig,Scorer,Ball_Handler
+Chicago Bulls,Zach LaVine,Scorer,Versatile_Forward
+Cleveland Cavaliers,Caris LeVert,Versatile_Forward,Scorer
+Cleveland Cavaliers,Cedi Osman,Scorer,Ball_Handler
+Cleveland Cavaliers,Craig Porter Jr.,Versatile_Forward,Playmaker
+Cleveland Cavaliers,Darius Garland,Scorer,Ball_Handler
+Cleveland Cavaliers,Dean Wade,Versatile_Forward,Slasher
+Cleveland Cavaliers,Donovan Mitchell,Scorer,Versatile_Forward
+Cleveland Cavaliers,Evan Mobley,Versatile_Forward,Scorer
+Cleveland Cavaliers,Georges Niang,Scorer,Ball_Handler
+Cleveland Cavaliers,Isaac Okoro,Scorer,Versatile_Forward
+Cleveland Cavaliers,Jarrett Allen,Versatile_Forward,Slasher
+Cleveland Cavaliers,Max Strus,Scorer,Versatile_Forward
+Cleveland Cavaliers,Robin Lopez,Interior_Post,Defensive_Anchor
+Cleveland Cavaliers,Sam Merrill,Scorer,Versatile_Forward
+Cleveland Cavaliers,Taj Gibson,Scorer,Versatile_Forward
+Cleveland Cavaliers,Ty Jerome,Scorer,Ball_Handler
+Dallas Mavericks,Anthony Davis,Versatile_Forward,Scorer
+Dallas Mavericks,Brandon Williams,Scorer,Versatile_Forward
+Dallas Mavericks,Daniel Gafford,Versatile_Forward,Slasher
+Dallas Mavericks,Dante Exum,Scorer,Ball_Handler
+Dallas Mavericks,Dereck Lively II,Versatile_Forward,Defensive_Anchor
+Dallas Mavericks,Kessler Edwards,Scorer,Ball_Handler
+Dallas Mavericks,Kyrie Irving,Scorer,Ball_Handler
+Dallas Mavericks,Luka Doncic,Scorer,Ball_Handler
+Dallas Mavericks,Maxi Kleber,Versatile_Forward,Slasher
+Dallas Mavericks,Naji Marshall,Scorer,Versatile_Forward
+Dallas Mavericks,Olivier Maxence-Prosper,Scorer,Ball_Handler
+Dallas Mavericks,P.J. Washington,Versatile_Forward,Scorer
+Dallas Mavericks,Richaun Holmes,Scorer,Ball_Handler
+Dallas Mavericks,Spencer Dinwiddie,Scorer,Ball_Handler
+Dallas Mavericks,Tim Hardaway Jr.,Scorer,Versatile_Forward
+Denver Nuggets,Aaron Gordon,Scorer,Versatile_Forward
+Denver Nuggets,Christian Braun,Versatile_Forward,Scorer
+Denver Nuggets,DaRon Holmes II,Scorer,Versatile_Forward
+Denver Nuggets,DeMarre Carroll,Scorer,Ball_Handler
+Denver Nuggets,Hunter Tyson,Versatile_Forward,Scorer
+Denver Nuggets,Jalen Brunson,Scorer,Ball_Handler
+Denver Nuggets,Jamal Murray,Scorer,Versatile_Forward
+Denver Nuggets,Julian Strawther,Scorer,Versatile_Forward
+Denver Nuggets,Kentavious Caldwell-Pope,Versatile_Forward,Scorer
+Denver Nuggets,Michael Porter Jr.,Scorer,Versatile_Forward
+Denver Nuggets,Nikola Jokic,Interior_Post,Defensive_Anchor
+Denver Nuggets,Peyton Watson,Scorer,Versatile_Forward
+Denver Nuggets,Russell Westbrook,Versatile_Forward,Ball_Handler
+Denver Nuggets,Vlatko Cancar,Scorer,Ball_Handler
+Denver Nuggets,Zeke Nnaji,Versatile_Forward,Slasher
+Detroit Pistons,Alec Burks,Scorer,Ball_Handler
+Detroit Pistons,Ausar Thompson,Versatile_Forward,Slasher
+Detroit Pistons,Bobby Portis,Versatile_Forward,Scorer
+Detroit Pistons,Bojan Bogdanovic,Scorer,Ball_Handler
+Detroit Pistons,Cade Cunningham,Versatile_Forward,Scorer
+Detroit Pistons,Cade Cunningham,Versatile_Forward,Scorer
+Detroit Pistons,Duncan Robinson,Scorer,Versatile_Forward
+Detroit Pistons,Isaiah Stewart,Versatile_Forward,Scorer
+Detroit Pistons,Jalen Duren,Versatile_Forward,Scorer
+Detroit Pistons,Killian Hayes,Versatile_Forward,Ball_Handler
+Detroit Pistons,Marcus Sasser,Scorer,Versatile_Forward
+Detroit Pistons,Moussa Diabate,Scorer,Ball_Handler
+Detroit Pistons,Ron Holland II,Scorer,Ball_Handler
+Detroit Pistons,Tari Eason,Versatile_Forward,Slasher
+Detroit Pistons,Tobias Harris,Versatile_Forward,Scorer
+Golden State Warriors,Andrew Wiggins,Scorer,Versatile_Forward
+Golden State Warriors,Brandin Podziemski,Versatile_Forward,Scorer
+Golden State Warriors,Buddy Hield,Scorer,Versatile_Forward
+Golden State Warriors,Chris Paul,Playmaker,Facilitator
+Golden State Warriors,Draymond Green,Versatile_Forward,Playmaker
+Golden State Warriors,Gary Payton II,Versatile_Forward,Slasher
+Golden State Warriors,JaVale McGee,Scorer,Ball_Handler
+Golden State Warriors,Jonathan Kuminga,Versatile_Forward,Scorer
+Golden State Warriors,Kevon Looney,Versatile_Forward,Interior_Post
+Golden State Warriors,Kevon Looney,Versatile_Forward,Interior_Post
+Golden State Warriors,Klay Thompson,Scorer,Versatile_Forward
+Golden State Warriors,Lester Quinones,Scorer,Ball_Handler
+Golden State Warriors,Moses Moody,Scorer,Versatile_Forward
+Golden State Warriors,Stephen Curry,Scorer,Versatile_Forward
+Golden State Warriors,Trayce Jackson-Davis,Versatile_Forward,Slasher
+Houston Rockets,Alperen Sengun,Versatile_Forward,Scorer
+Houston Rockets,Amen Thompson,Versatile_Forward,Scorer
+Houston Rockets,Bilal Coulibaly,Versatile_Forward,Scorer
+Houston Rockets,Cam Whitmore,Scorer,Versatile_Forward
+Houston Rockets,Cedi Osman,Scorer,Ball_Handler
+Houston Rockets,Darius Days,Scorer,Ball_Handler
+Houston Rockets,Dillon Brooks,Scorer,Versatile_Forward
+Houston Rockets,Fred VanVleet,Scorer,Ball_Handler
+Houston Rockets,JaVale McGee,Scorer,Ball_Handler
+Houston Rockets,Jalen Brunson,Scorer,Ball_Handler
+Houston Rockets,Nate Hinton,Scorer,Ball_Handler
+Houston Rockets,Reed Sheppard,Scorer,Versatile_Forward
+Houston Rockets,Steven Adams,Versatile_Forward,Interior_Post
+Houston Rockets,Tari Eason,Versatile_Forward,Slasher
+Houston Rockets,Terrance Ross,Scorer,Ball_Handler
+Indiana Pacers,Aaron Nesmith,Scorer,Versatile_Forward
+Indiana Pacers,Aaron Nesmith,Scorer,Versatile_Forward
+Indiana Pacers,Andrew Nembhard,Ball_Handler,Scorer
+Indiana Pacers,Ben Sheppard,Versatile_Forward,Scorer
+Indiana Pacers,Bennedict Mathurin,Scorer,Versatile_Forward
+Indiana Pacers,Jarace Walker,Versatile_Forward,Scorer
+Indiana Pacers,Johnny Furphy,Versatile_Forward,Slasher
+Indiana Pacers,Kendall Brown,Scorer,Ball_Handler
+Indiana Pacers,Myles Turner,Versatile_Forward,Scorer
+Indiana Pacers,Myles Turner,Versatile_Forward,Scorer
+Indiana Pacers,Obi Toppin,Scorer,Versatile_Forward
+Indiana Pacers,Pascal Siakam,Scorer,Versatile_Forward
+Indiana Pacers,T.J. McConnell,Versatile_Forward,Ball_Handler
+Indiana Pacers,Trey Lyles,Scorer,Ball_Handler
+Indiana Pacers,Tyrese Haliburton,Playmaker,Facilitator
+Los Angeles Clippers,Amir Coffey,Scorer,Versatile_Forward
+Los Angeles Clippers,Anthony Davis,Versatile_Forward,Scorer
+Los Angeles Clippers,Brandon Boston Jr.,Scorer,Ball_Handler
+Los Angeles Clippers,Cameron Christie,Scorer,Ball_Handler
+Los Angeles Clippers,Darren Collins,Scorer,Ball_Handler
+Los Angeles Clippers,Ivica Zubac,Versatile_Forward,Slasher
+Los Angeles Clippers,James Harden,Scorer,Versatile_Forward
+Los Angeles Clippers,Kawhi Leonard,Scorer,Versatile_Forward
+Los Angeles Clippers,Kawhi Leonard,Scorer,Versatile_Forward
+Los Angeles Clippers,Kris Dunn,Versatile_Forward,Slasher
+Los Angeles Clippers,Mason Plumlee,Versatile_Forward,Slasher
+Los Angeles Clippers,Norman Powell,Scorer,Versatile_Forward
+Los Angeles Clippers,Patty Mills,Scorer,Ball_Handler
+Los Angeles Clippers,Paul George,Scorer,Versatile_Forward
+Los Angeles Clippers,Terance Mann,Versatile_Forward,Scorer
+Los Angeles Lakers,Anthony Davis,Versatile_Forward,Scorer
+Los Angeles Lakers,Austin Reaves,Scorer,Versatile_Forward
+Los Angeles Lakers,Bronny James,Scorer,Ball_Handler
+Los Angeles Lakers,Cam Reddish,Scorer,Ball_Handler
+Los Angeles Lakers,Christian Wood,Scorer,Ball_Handler
+Los Angeles Lakers,Dalton Knecht,Scorer,Versatile_Forward
+Los Angeles Lakers,Dorian Finney-Smith,Versatile_Forward,Slasher
+Los Angeles Lakers,Gabe Vincent,Scorer,Versatile_Forward
+Los Angeles Lakers,Jarred Vanderbilt,Versatile_Forward,Slasher
+Los Angeles Lakers,Jaxson Hayes,Versatile_Forward,Scorer
+Los Angeles Lakers,Jordan Goodwin,Versatile_Forward,Slasher
+Los Angeles Lakers,LeBron James,Versatile_Forward,Scorer
+Los Angeles Lakers,Luka Doncic,Scorer,Ball_Handler
+Los Angeles Lakers,Max Christie,Scorer,Versatile_Forward
+Los Angeles Lakers,Rui Hachimura,Scorer,Versatile_Forward
+Memphis Grizzlies,Bismack Biyombo,Versatile_Forward,Scorer
+Memphis Grizzlies,Brandon Clarke,Scorer,Playmaker
+Memphis Grizzlies,Brandon Miller,Scorer,Versatile_Forward
+Memphis Grizzlies,Derrick Rose,Scorer,Ball_Handler
+Memphis Grizzlies,Desmond Bane,Scorer,Versatile_Forward
+Memphis Grizzlies,Drew Eubanks,Versatile_Forward,Scorer
+Memphis Grizzlies,Ja Morant,Scorer,Ball_Handler
+Memphis Grizzlies,Ja Morant,Scorer,Ball_Handler
+Memphis Grizzlies,Jaren Jackson Jr.,Scorer,Versatile_Forward
+Memphis Grizzlies,Luke Kennard,Scorer,Versatile_Forward
+Memphis Grizzlies,Marcus Smart,Versatile_Forward,Scorer
+Memphis Grizzlies,Santi Aldama,Versatile_Forward,Scorer
+Memphis Grizzlies,Scotty Pippen Jr.,Scorer,Versatile_Forward
+Memphis Grizzlies,Vince Williams Jr.,Versatile_Forward,Ball_Handler
+Memphis Grizzlies,Ziaire Williams,Scorer,Slasher
+Miami Heat,Alec Burks,Scorer,Ball_Handler
+Miami Heat,Bam Adebayo,Versatile_Forward,Scorer
+Miami Heat,Cody Zeller,Scorer,Ball_Handler
+Miami Heat,Dru Smith,Versatile_Forward,Slasher
+Miami Heat,Duncan Robinson,Scorer,Versatile_Forward
+Miami Heat,Haywood Highsmith,Scorer,Ball_Handler
+Miami Heat,Jaime Jaquez Jr.,Versatile_Forward,Scorer
+Miami Heat,Jaime Jaquez Jr.,Versatile_Forward,Scorer
+Miami Heat,Jimmy Butler,Scorer,Ball_Handler
+Miami Heat,Kel'el Ware,Versatile_Forward,Slasher
+Miami Heat,Kevin Love,Versatile_Forward,Slasher
+Miami Heat,Nikola Jovic,Scorer,Ball_Handler
+Miami Heat,Terry Rozier,Scorer,Ball_Handler
+Miami Heat,Tyler Herro,Scorer,Versatile_Forward
+Miami Heat,Udonis Haslem,Scorer,Ball_Handler
+Milwaukee Bucks,AJ Green,Scorer,Versatile_Forward
+Milwaukee Bucks,Andre Jackson Jr.,Versatile_Forward,Slasher
+Milwaukee Bucks,Bobby Portis,Versatile_Forward,Scorer
+Milwaukee Bucks,Brook Lopez,Versatile_Forward,Scorer
+Milwaukee Bucks,Cameron Payne,Versatile_Forward,Scorer
+Milwaukee Bucks,Chris Livingston,Scorer,Playmaker
+Milwaukee Bucks,Damian Lillard,Scorer,Ball_Handler
+Milwaukee Bucks,Gary Trent Jr.,Scorer,Versatile_Forward
+Milwaukee Bucks,Giannis Antetokounmpo,Scorer,Versatile_Forward
+Milwaukee Bucks,Giannis Antetokounmpo,Scorer,Versatile_Forward
+Milwaukee Bucks,Grayson Allen,Scorer,Versatile_Forward
+Milwaukee Bucks,Khris Middleton,Versatile_Forward,Scorer
+Milwaukee Bucks,MarJon Beauchamp,Scorer,Versatile_Forward
+Milwaukee Bucks,Pat Connaughton,Versatile_Forward,Scorer
+Milwaukee Bucks,Taurean Prince,Scorer,Versatile_Forward
+Minnesota Timberwolves,Anthony Edwards,Scorer,Versatile_Forward
+Minnesota Timberwolves,Daishen Nix,Scorer,Ball_Handler
+Minnesota Timberwolves,Donte DiVincenzo,Versatile_Forward,Scorer
+Minnesota Timberwolves,Jaden McDaniels,Scorer,Versatile_Forward
+Minnesota Timberwolves,Judah Mintz,Scorer,Ball_Handler
+Minnesota Timberwolves,Karl-Anthony Towns,Versatile_Forward,Slasher
+Minnesota Timberwolves,Leonard Miller,Versatile_Forward,Scorer
+Minnesota Timberwolves,Luka Garza,Versatile_Forward,Scorer
+Minnesota Timberwolves,Mike Conley,Versatile_Forward,Ball_Handler
+Minnesota Timberwolves,Naz Reid,Versatile_Forward,Scorer
+Minnesota Timberwolves,Nickeil Alexander-Walker,Scorer,Versatile_Forward
+Minnesota Timberwolves,Ricky Rubio,Scorer,Ball_Handler
+Minnesota Timberwolves,Rudy Gobert,Versatile_Forward,Slasher
+Minnesota Timberwolves,Terrence Shannon Jr.,Scorer,Versatile_Forward
+Minnesota Timberwolves,Troy Brown Jr.,Scorer,Ball_Handler
+New Orleans Pelicans,Brandon Ingram,Scorer,Versatile_Forward
+New Orleans Pelicans,Brandon Podziemski,Scorer,Ball_Handler
+New Orleans Pelicans,CJ McCollum,Scorer,Versatile_Forward
+New Orleans Pelicans,Edy Tavares,Scorer,Ball_Handler
+New Orleans Pelicans,Herbert Jones,Versatile_Forward,Slasher
+New Orleans Pelicans,Jeremiah Robinson-Earl,Versatile_Forward,Slasher
+New Orleans Pelicans,Jonas Valanciunas,Interior_Post,Defensive_Anchor
+New Orleans Pelicans,Jordan Hawkins,Scorer,Versatile_Forward
+New Orleans Pelicans,Jose Alvarado,Versatile_Forward,Ball_Handler
+New Orleans Pelicans,Kevon Looney,Versatile_Forward,Interior_Post
+New Orleans Pelicans,Moses Brown,Scorer,Ball_Handler
+New Orleans Pelicans,Trey Murphy III,Scorer,Versatile_Forward
+New Orleans Pelicans,Trey Murphy III,Scorer,Versatile_Forward
+New Orleans Pelicans,Yves Missi,Versatile_Forward,Interior_Post
+New Orleans Pelicans,Zion Williamson,Scorer,Versatile_Forward
+New York Knicks,Alec Burks,Scorer,Ball_Handler
+New York Knicks,Cameron Payne,Versatile_Forward,Scorer
+New York Knicks,Deuce McBride,Scorer,Ball_Handler
+New York Knicks,Donte DiVincenzo,Versatile_Forward,Scorer
+New York Knicks,Jalen Brunson,Scorer,Ball_Handler
+New York Knicks,Jericho Sims,Versatile_Forward,Slasher
+New York Knicks,Josh Hart,Versatile_Forward,Slasher
+New York Knicks,Karl-Anthony Towns,Versatile_Forward,Slasher
+New York Knicks,Mikal Bridges,Scorer,Versatile_Forward
+New York Knicks,Miles McBride,Scorer,Versatile_Forward
+New York Knicks,Mitchell Robinson,Versatile_Forward,Defensive_Anchor
+New York Knicks,OG Anunoby,Scorer,Versatile_Forward
+New York Knicks,Precious Achiuwa,Versatile_Forward,Slasher
+New York Knicks,R.J. Barrett,Scorer,Ball_Handler
+New York Knicks,Taj Gibson,Scorer,Versatile_Forward
+Oklahoma City Thunder,Aaron Wiggins,Versatile_Forward,Scorer
+Oklahoma City Thunder,Ajay Mitchell,Scorer,Versatile_Forward
+Oklahoma City Thunder,Alex Caruso,Versatile_Forward,Slasher
+Oklahoma City Thunder,Branden Carlson,Versatile_Forward,Scorer
+Oklahoma City Thunder,Cason Wallace,Versatile_Forward,Slasher
+Oklahoma City Thunder,Cason Wallace,Versatile_Forward,Slasher
+Oklahoma City Thunder,Chet Holmgren,Versatile_Forward,Scorer
+Oklahoma City Thunder,Dillon Brooks,Scorer,Versatile_Forward
+Oklahoma City Thunder,Isaiah Joe,Scorer,Versatile_Forward
+Oklahoma City Thunder,Jalen Williams,Scorer,Versatile_Forward
+Oklahoma City Thunder,Josh Giddey,Versatile_Forward,Ball_Handler
+Oklahoma City Thunder,Kenrich Williams,Versatile_Forward,Slasher
+Oklahoma City Thunder,Keyonte George,Scorer,Versatile_Forward
+Oklahoma City Thunder,Luguentz Dort,Versatile_Forward,Scorer
+Oklahoma City Thunder,Shai Gilgeous-Alexander,Scorer,Versatile_Forward
+Orlando Magic,Anthony Black,Scorer,Versatile_Forward
+Orlando Magic,Cole Anthony,Versatile_Forward,Ball_Handler
+Orlando Magic,Franz Wagner,Scorer,Versatile_Forward
+Orlando Magic,Gary Harris,Versatile_Forward,Slasher
+Orlando Magic,Goga Bitadze,Versatile_Forward,Slasher
+Orlando Magic,Jalen Suggs,Versatile_Forward,Scorer
+Orlando Magic,Jett Howard,Scorer,Versatile_Forward
+Orlando Magic,Joe Ingles,Playmaker,Ball_Handler
+Orlando Magic,Jonathan Isaac,Versatile_Forward,Defensive_Anchor
+Orlando Magic,Kentavious Caldwell-Pope,Versatile_Forward,Scorer
+Orlando Magic,Markelle Fultz,Playmaker,Facilitator
+Orlando Magic,Moe Wagner,Two_Way_Wing,Versatile_Forward
+Orlando Magic,Paolo Banchero,Versatile_Forward,Scorer
+Orlando Magic,Tristan da Silva,Versatile_Forward,Scorer
+Orlando Magic,Wendell Carter Jr.,Versatile_Forward,Slasher
+Philadelphia 76ers,Alex Reese,Scorer,Ball_Handler
+Philadelphia 76ers,Andre Drummond,Versatile_Forward,Slasher
+Philadelphia 76ers,Andre Drummond,Versatile_Forward,Slasher
+Philadelphia 76ers,Brandin Podziemski,Versatile_Forward,Scorer
+Philadelphia 76ers,Buddy Hield,Scorer,Versatile_Forward
+Philadelphia 76ers,Cameron Thomas,Scorer,Ball_Handler
+Philadelphia 76ers,Eric Gordon,Scorer,Ball_Handler
+Philadelphia 76ers,Guerschon Yabusele,Versatile_Forward,Slasher
+Philadelphia 76ers,Joel Embiid,Scorer,Versatile_Forward
+Philadelphia 76ers,Kelly Oubre Jr.,Scorer,Versatile_Forward
+Philadelphia 76ers,Kyle Lowry,Playmaker,Scorer
+Philadelphia 76ers,Paul George,Scorer,Versatile_Forward
+Philadelphia 76ers,Ricky Council IV,Scorer,Ball_Handler
+Philadelphia 76ers,Tobias Harris,Versatile_Forward,Scorer
+Philadelphia 76ers,Tyrese Maxey,Scorer,Versatile_Forward
+Phoenix Suns,Bol Bol,Scorer,Ball_Handler
+Phoenix Suns,Bradley Beal,Scorer,Ball_Handler
+Phoenix Suns,Deandre Ayton,Versatile_Forward,Slasher
+Phoenix Suns,Devin Booker,Scorer,Ball_Handler
+Phoenix Suns,Drew Eubanks,Versatile_Forward,Scorer
+Phoenix Suns,Grayson Allen,Scorer,Versatile_Forward
+Phoenix Suns,Josh Okogie,Versatile_Forward,Slasher
+Phoenix Suns,Jusuf Nurkic,Scorer,Ball_Handler
+Phoenix Suns,Kevin Durant,Scorer,Versatile_Forward
+Phoenix Suns,Mason Plumlee,Versatile_Forward,Slasher
+Phoenix Suns,Nickeil Alexander-Walker,Scorer,Versatile_Forward
+Phoenix Suns,Royce O'Neale,Versatile_Forward,Slasher
+Phoenix Suns,Ryan Broekhoff,Scorer,Ball_Handler
+Phoenix Suns,Ryan Dunn,Versatile_Forward,Slasher
+Phoenix Suns,Tyus Jones,Versatile_Forward,Playmaker
+Portland Trail Blazers,Anfernee Simons,Scorer,Versatile_Forward
+Portland Trail Blazers,Blake Wesley,Versatile_Forward,Scorer
+Portland Trail Blazers,Clifford Omoruyi,Scorer,Ball_Handler
+Portland Trail Blazers,Damian Lillard,Scorer,Ball_Handler
+Portland Trail Blazers,Deandre Ayton,Versatile_Forward,Slasher
+Portland Trail Blazers,Deni Avdija,Scorer,Versatile_Forward
+Portland Trail Blazers,Donovan Clingan,Versatile_Forward,Slasher
+Portland Trail Blazers,Jabari Walker,Versatile_Forward,Slasher
+Portland Trail Blazers,Jerami Grant,Scorer,Versatile_Forward
+Portland Trail Blazers,Jusuf Nurkic,Scorer,Ball_Handler
+Portland Trail Blazers,Larry Nance Jr.,Versatile_Forward,Slasher
+Portland Trail Blazers,Rayan Rupert,Versatile_Forward,Slasher
+Portland Trail Blazers,Scoot Henderson,Scorer,Versatile_Forward
+Portland Trail Blazers,Shaedon Sharpe,Scorer,Versatile_Forward
+Portland Trail Blazers,Toumani Camara,Versatile_Forward,Scorer
+Sacramento Kings,Alex Len,Scorer,Ball_Handler
+Sacramento Kings,Davion Mitchell,Versatile_Forward,Ball_Handler
+Sacramento Kings,De'Aaron Fox,Scorer,Versatile_Forward
+Sacramento Kings,DeMar DeRozan,Scorer,Versatile_Forward
+Sacramento Kings,Domantas Sabonis,Versatile_Forward,Slasher
+Sacramento Kings,Harrison Barnes,Scorer,Versatile_Forward
+Sacramento Kings,Keegan Murray,Versatile_Forward,Scorer
+Sacramento Kings,Keegan Murray,Versatile_Forward,Scorer
+Sacramento Kings,Keon Ellis,Versatile_Forward,Scorer
+Sacramento Kings,Kevin Huerter,Versatile_Forward,Scorer
+Sacramento Kings,Luka Doncic,Scorer,Ball_Handler
+Sacramento Kings,Malik Monk,Scorer,Versatile_Forward
+Sacramento Kings,Mason Jones,Scorer,Ball_Handler
+Sacramento Kings,Terry Taylor,Scorer,Ball_Handler
+Sacramento Kings,Trey Lyles,Scorer,Ball_Handler
+San Antonio Spurs,Bismack Biyombo,Versatile_Forward,Scorer
+San Antonio Spurs,Blake Wesley,Versatile_Forward,Scorer
+San Antonio Spurs,Brandon Miller,Scorer,Versatile_Forward
+San Antonio Spurs,Cedi Osman,Scorer,Ball_Handler
+San Antonio Spurs,Chris Paul,Playmaker,Facilitator
+San Antonio Spurs,Darius Bazley,Scorer,Ball_Handler
+San Antonio Spurs,Devin Vassell,Scorer,Versatile_Forward
+San Antonio Spurs,Harrison Barnes,Scorer,Versatile_Forward
+San Antonio Spurs,Jeremy Sochan,Versatile_Forward,Slasher
+San Antonio Spurs,Julian Champagnie,Versatile_Forward,Slasher
+San Antonio Spurs,Keldon Johnson,Scorer,Versatile_Forward
+San Antonio Spurs,Malaki Branham,Scorer,Versatile_Forward
+San Antonio Spurs,Sandro Mamukelashvili,Versatile_Forward,Scorer
+San Antonio Spurs,Stephon Castle,Versatile_Forward,Ball_Handler
+San Antonio Spurs,Victor Wembanyama,Versatile_Forward,Scorer
+Toronto Raptors,Brandon Ingram,Scorer,Versatile_Forward
+Toronto Raptors,Chris Boucher,Scorer,Defensive_Anchor
+Toronto Raptors,Cory Joseph,Scorer,Ball_Handler
+Toronto Raptors,Garrett Temple,Scorer,Playmaker
+Toronto Raptors,Gradey Dick,Scorer,Versatile_Forward
+Toronto Raptors,Immanuel Quickley,Versatile_Forward,Scorer
+Toronto Raptors,JaKarr Sampson,Scorer,Ball_Handler
+Toronto Raptors,Jakob Poeltl,Versatile_Forward,Slasher
+Toronto Raptors,Jonathan Mogbo,Versatile_Forward,Slasher
+Toronto Raptors,Kelly Olynyk,Versatile_Forward,Slasher
+Toronto Raptors,Mouhamadou Gueye,Scorer,Playmaker
+Toronto Raptors,Otto Porter Jr.,Two_Way_Wing,Versatile_Forward
+Toronto Raptors,RJ Barrett,Scorer,Versatile_Forward
+Toronto Raptors,Scottie Barnes,Versatile_Forward,Scorer
+Toronto Raptors,Svi Mykhailiuk,Scorer,Versatile_Forward
+Utah Jazz,Brandin Podziemski,Versatile_Forward,Scorer
+Utah Jazz,Brice Sensabaugh,Scorer,Versatile_Forward
+Utah Jazz,Cody Williams,Versatile_Forward,Scorer
+Utah Jazz,Collin Sexton,Scorer,Versatile_Forward
+Utah Jazz,Dorian Finney-Smith,Versatile_Forward,Slasher
+Utah Jazz,Drew Eubanks,Versatile_Forward,Scorer
+Utah Jazz,Jalen Brunson,Scorer,Ball_Handler
+Utah Jazz,John Collins,Scorer,Versatile_Forward
+Utah Jazz,Jordan Clarkson,Scorer,Versatile_Forward
+Utah Jazz,Keyonte George,Scorer,Versatile_Forward
+Utah Jazz,Kris Dunn,Versatile_Forward,Slasher
+Utah Jazz,Kyle Filipowski,Versatile_Forward,Slasher
+Utah Jazz,Lauri Markkanen,Scorer,Versatile_Forward
+Utah Jazz,Taylor Hendricks,Versatile_Forward,Slasher
+Utah Jazz,Walker Kessler,Versatile_Forward,Scorer
+Washington Wizards,Alex Len,Scorer,Ball_Handler
+Washington Wizards,Anthony Davis,Versatile_Forward,Scorer
+Washington Wizards,Bilal Coulibaly,Versatile_Forward,Scorer
+Washington Wizards,Bub Carrington,Versatile_Forward,Ball_Handler
+Washington Wizards,CJ Miles,Two_Way_Wing,Versatile_Forward
+Washington Wizards,Corey Kispert,Scorer,Versatile_Forward
+Washington Wizards,Daniel Gafford,Versatile_Forward,Slasher
+Washington Wizards,Jonas Valanciunas,Interior_Post,Defensive_Anchor
+Washington Wizards,Jordan Poole,Scorer,Ball_Handler
+Washington Wizards,Keyonte George,Scorer,Versatile_Forward
+Washington Wizards,Kyle Kuzma,Versatile_Forward,Scorer
+Washington Wizards,Kyshawn George,Versatile_Forward,Scorer
+Washington Wizards,Marvin Bagley III,Versatile_Forward,Slasher
+Washington Wizards,Patrick Baldwin Jr.,Scorer,Versatile_Forward
+Washington Wizards,Saddiq Bey,Scorer,Versatile_Forward
