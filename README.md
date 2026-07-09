@@ -1,6 +1,6 @@
 # NBA Player Archetype Classifier — CSUF Data Science 2026
 
-A rule-based data science project that classifies every NBA player in the 2025–26 season into a primary and secondary **playing archetype** using per-game and advanced statistics. The results are exported as player-level and team-level CSV files and can be queried interactively by team.
+A rule-based data science project that classifies every NBA player in the 2025–26 season into a primary and secondary **playing archetype** using per-game and advanced statistics. The results are exported as player-level and team-level CSV files and can be queried interactively — by team roster or by individual player name.
 
 ---
 
@@ -63,6 +63,46 @@ The two highest-scoring archetypes are assigned as Primary and Secondary.
 - Set `team_abbreviation` (e.g., `'LAL'`, `'GSW'`) to filter and display the full archetype roster for any team.
 - Reads from `team_roster_archetypes.csv` if it exists, otherwise uses the in-memory table.
 
+### 6. Player Lookup (`Cell 5`)
+- Set `player_query` to any player name — full or partial, case-insensitive — to see their stats and archetypes.
+- Displays per-game stats (PTS, AST, REB, STL, BLK, TOV, MIN, FG%, 3P%, FT%, EFF, AST/TOV) pulled directly from `nba_player_stats_2026.csv`. Season totals are automatically divided by games played.
+- Shows a ranked text bar chart of all ten archetype scores so you can see how close a player was to each role, not just their top two.
+- Partial matches work — `'curry'` finds Stephen Curry, `'james'` finds LeBron James, `'jokic'` finds Nikola Jokić.
+- If the query matches multiple players (e.g. `'green'`), all matching players are printed in sequence.
+
+**Example output:**
+```
+=======================================================
+  LeBron James
+=======================================================
+  Primary Archetype  : Versatile_Forward
+  Secondary Archetype: Scorer
+
+  Team : LAL   |   GP: 71
+
+  Stat      Per Game
+  --------------------
+  PTS            25.4
+  AST             8.3
+  REB             7.0
+  STL             1.3
+  BLK             0.5
+  TOV             3.5
+  MIN            35.0
+  --------------------
+  FG%           49.0%
+  3P%           36.0%
+  FT%           75.0%
+
+  Archetype Score Breakdown:
+  ------------------------------------
+  Versatile_Forward      ████████████████████
+  Scorer                 ████████████████
+  Playmaker              ████████████
+  Ball_Handler           ██████████
+  ...
+```
+
 ---
 
 ## Output Files
@@ -104,6 +144,7 @@ No ML libraries are required — the classifier is fully deterministic and rule-
 2. Place `nba_player_stats_2026.csv` in the same directory (or let it fall back to the built-in sample).
 3. Run all cells in order.
 4. To look up a specific team, change `team_abbreviation` in Cell 3 to any valid NBA abbreviation (e.g., `'OKC'`, `'BOS'`, `'MIA'`).
+5. To look up a specific player, change `player_query` in Cell 5 to any player name or partial name (e.g., `'curry'`, `'jokic'`, `'LeBron'`).
 
 ---
 
